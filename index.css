@@ -56,3 +56,16 @@ footer {
 footer a {
   color: hsl(218, 44%, 22%);
 }
+
+
+@media screen and (max-width: 400px) {
+  .container {
+    margin-top: -50px;
+  }
+
+  footer {
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
