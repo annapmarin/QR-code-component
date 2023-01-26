@@ -23,7 +23,7 @@ Frontend Mentor challenges help us improving our coding skills by building reali
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- [Live Site URL: [](https://annapmarin.github.io/QR-code-component/)
+- [Live Site URL](https://annapmarin.github.io/QR-code-component/)
 
 ## My process
 
